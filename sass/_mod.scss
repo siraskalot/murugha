@@ -1,0 +1,33 @@
+/* =============================================================================
+   Mod is the basic container.
+   ========================================================================== */
+
+.mod {
+  margin: 1em;
+}
+
+.hd,
+.bd,
+.ft {
+  overflow: hidden;
+  *overflow: visible;
+  zoom: 1;
+}
+
+// Debug
+
+.mod {
+  background: purple;
+}
+
+.hd {
+  background: green;
+}
+
+.bd {
+  background: teal;
+}
+
+.ft {
+  background: blue;
+}
