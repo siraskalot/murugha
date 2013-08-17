@@ -1,7 +1,7 @@
 om
 ==
 
-Front-end library, style guide and documentation guide.
+Front-end library, style guide, documentation guide, markup & style pattern library
 
 additional info
 ---------------
